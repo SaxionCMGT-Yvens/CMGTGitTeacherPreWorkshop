@@ -1,1 +1,2 @@
 My text file :)
+A new line!
