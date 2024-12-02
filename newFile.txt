@@ -1,3 +1,4 @@
 My text file :D
 A new line!
 Another new line!
+sure!
